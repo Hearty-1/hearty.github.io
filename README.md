@@ -1,2 +1,0 @@
-# hearty.github.io
-secret
